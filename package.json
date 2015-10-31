@@ -1,5 +1,5 @@
 {
-  "name": "monospace-char-width",
+  "name": "wcsize",
   "version": "1.0.0",
   "description": "Derived from visualwidth-js this package identifies the size of one characterCode in terminals",
   "main": "index.js",
@@ -31,10 +31,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martinheidegger/monospace-char-width.git"
+    "url": "git+https://github.com/martinheidegger/wcsize.git"
   },
   "bugs": {
-    "url": "https://github.com/martinheidegger/monospace-char-width/issues"
+    "url": "https://github.com/martinheidegger/wcsize/issues"
   },
-  "homepage": "https://github.com/martinheidegger/monospace-char-width#readme"
+  "homepage": "https://github.com/martinheidegger/wcsize#readme"
 }
